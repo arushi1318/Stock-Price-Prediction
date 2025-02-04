@@ -54,6 +54,11 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
 
 
 
+
+
+
+
+
 🛠️ **Tech Stack** :
 
 • **Programming Language**: Python
@@ -75,6 +80,9 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
      ○ Streamlit
 
 
+
+ 
+ 
  📥 **Installation Instructions** :
  
  To set up the project, follow these steps:
@@ -98,6 +106,9 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
     streamlit run app.py
 
 
+
+
+
 📊 **Usage** :
 Once the Streamlit application is running, users can:
 
@@ -106,6 +117,9 @@ Once the Streamlit application is running, users can:
 ✅ Select prediction models (LSTM, KNN, Decision Tree, or Merged Model).
 
 ✅ View stock price predictions with visual graphs and performance comparisons.
+
+
+
 
 
 
@@ -124,9 +138,13 @@ Contributions are welcome! If you want to improve the project, follow these step
 5. Open a pull request
 
 
+
+
 📝 **License** :
 
 This project is licensed under the **MIT License**.
+
+
 
 
 📧 **Contact** :
