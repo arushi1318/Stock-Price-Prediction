@@ -12,9 +12,8 @@ To overcome these challenges, we propose an advanced stock price prediction syst
 🎯 Problem Statement :
 
 Existing stock price prediction methods suffer from :
-
-• Inefficiencies in data processing, leading to inaccuracies and delays.
-• Lack of a centralized database, resulting in inconsistencies in stock market records.
-• Limited access to real-time market information, affecting timely decision-making.
-• Manual handling of stock market data, increasing the risk of errors.
-• This project aims to build a robust and efficient system for stock price prediction that utilizes machine learning techniques to enhance the accuracy and reliability of stock forecasts.
+•	Inefficiencies in data processing, leading to inaccuracies and delays.
+•	Lack of a centralized database, resulting in inconsistencies in stock market records.
+•	Limited access to real-time market information, affecting timely decision-making.
+•	Manual handling of stock market data, increasing the risk of errors.
+This project aims to build a robust and efficient system for stock price prediction that utilizes machine learning techniques to enhance the accuracy and reliability of stock forecasts.
