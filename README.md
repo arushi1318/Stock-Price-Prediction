@@ -1,4 +1,4 @@
-📈 Stock Price Prediction
+**📈** **Stock Price Prediction**
 
 📌 **Background Problem**:
 
