@@ -75,3 +75,67 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
      ○ Streamlit
 
 
+ 📥 **Installation Instructions** :
+ 
+ To set up the project, follow these steps:
+
+ 1️⃣ **Clone the Repository**
+ 
+    git clone https://github.com/AbhishekBajpai-AB/stock-price-prediction.git
+    cd stock-price-prediction
+
+2️⃣ Create a Virtual Environment (Optional but Recommended)
+
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3️⃣ Install Dependencies
+
+    pip install -r requirements.txt
+
+4️⃣ Run the Streamlit Web Application
+
+    streamlit run app.py
+
+
+📊 **Usage** :
+Once the Streamlit application is running, users can:
+
+✅ Input stock symbols to fetch real-time data.
+
+✅ Select prediction models (LSTM, KNN, Decision Tree, or Merged Model).
+
+✅ View stock price predictions with visual graphs and performance comparisons.
+
+
+
+🤝 **Contributing** :
+
+Contributions are welcome! If you want to improve the project, follow these steps:
+
+1. Fork the repository
+2. 
+3. Create a new branch (git checkout -b feature-branch)
+4. 
+5. Make your changes
+6. 
+7. Commit and push your changes (git commit -m "Added new feature")
+8. 
+9. Open a pull request
+
+
+📝 **License** :
+
+This project is licensed under the **MIT License**.
+
+
+📧 **Contact** :
+
+For any questions or suggestions, feel free to reach out:
+
+📩 **Your Email**: [arushigupta1818@gmail.com]
+
+🔗 Github :
+
+
+
