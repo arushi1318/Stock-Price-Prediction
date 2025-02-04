@@ -10,7 +10,8 @@ To overcome these challenges, we propose an advanced stock price prediction syst
 
 
 
-🎯** Problem Statement** :
+
+🎯 **Problem Statement** :
 
 Existing stock price prediction methods suffer from :
 
