@@ -1,6 +1,6 @@
 📈 Stock Price Prediction
 
-📌 Background Problem :
+📌 **Background Problem**:
 
 In the ever-evolving landscape of financial markets, accurately predicting stock prices in a timely manner is crucial for investors to make well-informed decisions and effectively manage risks. However, traditional prediction methods often struggle to keep pace with the complexities and rapid changes inherent in market dynamics.
 
