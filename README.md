@@ -50,12 +50,19 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
 🛠️ **Tech Stack** :
 • **Programming Language**: Python
 • **Libraries**:
+
    ○ NumPy
+   
    ○ Pandas
+   
    ○ Matplotlib
+   
    ○ Scikit-learn
+   
    ○ TensorFlow
+   
    ○ PyTorch
+   
    ○ Streamlit
 
 
