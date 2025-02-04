@@ -135,7 +135,7 @@ For any questions or suggestions, feel free to reach out:
 
 📩 **Your Email**: [arushigupta1818@gmail.com]
 
-🔗 Github :
+🔗 **Github** : (https://github.com/arushi1318)
 
 
 
