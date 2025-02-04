@@ -114,14 +114,14 @@ Once the Streamlit application is running, users can:
 Contributions are welcome! If you want to improve the project, follow these steps:
 
 1. Fork the repository
-2. 
-3. Create a new branch (git checkout -b feature-branch)
-4. 
-5. Make your changes
-6. 
-7. Commit and push your changes (git commit -m "Added new feature")
-8. 
-9. Open a pull request
+ 
+2. Create a new branch (git checkout -b feature-branch)
+
+3. Make your changes
+ 
+4. Commit and push your changes (git commit -m "Added new feature")
+ 
+5. Open a pull request
 
 
 📝 **License** :
