@@ -32,7 +32,9 @@ This project aims to build a robust and efficient system for stock price predict
 The Stock Price Prediction project employs three machine learning models:
 
 • **LSTM (Long Short-Term Memory)**
+
 • **KNN (K-Nearest Neighbors)**
+
 • **Decision Tree**
 
 Additionally, a merged model combining these approaches is developed for enhanced prediction accuracy.
@@ -40,29 +42,35 @@ Additionally, a merged model combining these approaches is developed for enhance
 📊 **Data Source**: We utilize the **Yahoo Live Dataset**, extracting features like:
 
 • Opening Value
+
 • Closing Value
+
 • Stock High
+
 • Stock Volume
+
 The project provides comparative analysis among the models (LSTM vs. KNN vs. Decision Tree) to determine the best-performing approach. The results are displayed in a **Streamlit web application**, offering an interactive and user-friendly interface.
 
 
 
 🛠️ **Tech Stack** :
+
 • **Programming Language**: Python
+
 • **Libraries**:
 
-   ○ NumPy
+     ○ NumPy
    
-   ○ Pandas
+     ○ Pandas
    
-   ○ Matplotlib
+     ○ Matplotlib
    
-   ○ Scikit-learn
+     ○ Scikit-learn
+      
+     ○ TensorFlow
    
-   ○ TensorFlow
+     ○ PyTorch
    
-   ○ PyTorch
-   
-   ○ Streamlit
+     ○ Streamlit
 
 
