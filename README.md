@@ -79,7 +79,7 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
    
      ○ Streamlit
 
---
+---
 
  
  
@@ -106,7 +106,7 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
     streamlit run app.py
 
 
-
+---
 
 
 📊 **Usage** :
@@ -120,7 +120,7 @@ Once the Streamlit application is running, users can:
 
 
 
-
+---
 
 
 🤝 **Contributing** :
@@ -138,13 +138,13 @@ Contributions are welcome! If you want to improve the project, follow these step
 5. Open a pull request
 
 
-
+---
 
 📝 **License** :
 
 This project is licensed under the **MIT License**.
 
-
+---
 
 
 📧 **Contact** :
