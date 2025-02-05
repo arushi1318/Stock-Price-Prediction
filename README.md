@@ -59,7 +59,7 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
 
 
 
-##🛠️ **Tech Stack** :
+## 🛠️ **Tech Stack** :
 
 • **Programming Language**: Python
 
