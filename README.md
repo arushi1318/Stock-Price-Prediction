@@ -25,7 +25,7 @@ Existing stock price prediction methods suffer from :
 
 This project aims to build a robust and efficient system for stock price prediction that utilizes machine learning techniques to enhance the accuracy and reliability of stock forecasts.
 
-
+---
 
 
 🚀 **Project Description**:
@@ -53,7 +53,7 @@ Additionally, a merged model combining these approaches is developed for enhance
 The project provides comparative analysis among the models (LSTM vs. KNN vs. Decision Tree) to determine the best-performing approach. The results are displayed in a **Streamlit web application**, offering an interactive and user-friendly interface.
 
 
-
+---
 
 
 
@@ -79,7 +79,7 @@ The project provides comparative analysis among the models (LSTM vs. KNN vs. Dec
    
      ○ Streamlit
 
-
+--
 
  
  
