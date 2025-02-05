@@ -8,7 +8,7 @@ Challenges such as market volatility, information asymmetry among participants, 
 
 To overcome these challenges, we propose an advanced stock price prediction system that leverages machine learning models and real-time data processing techniques to provide investors with **accurate and timely insights**.
 
-
+---
 
 
 🎯 **Problem Statement** :
